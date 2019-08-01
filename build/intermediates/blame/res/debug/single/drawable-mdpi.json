@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "outputFile": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 51,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 57,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 57,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 42,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/res/values/strings.xml"
+                }
+            }
+        ]
+    }
+]

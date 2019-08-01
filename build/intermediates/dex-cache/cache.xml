@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\My Articles\Apress\2019\7\KivyAndroidStudio\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\My Articles\Apress\2019\7\KivyAndroidStudio\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0ebbacf059c518e8cbae25cf1f8b4886f8b2bfe7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\My Articles\Apress\2019\7\KivyAndroidStudio\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88f42c1625331576d56be2cfc8907ef1ea5ad680">
+        <dex dex="D:\My Articles\Apress\2019\7\KivyAndroidStudio\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_67c003447b7c37bcfe13c0266fc97c0c55aebd63\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My Articles\Apress\2019\7\KivyAndroidStudio\openCVLibrary344\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6fa17ab02f97ff8cc7a603b79a6e6309a0a3abec">
+        <dex dex="D:\My Articles\Apress\2019\7\KivyAndroidStudio\build\intermediates\pre-dexed\debug\classes_be5a4006fb9dd34b6005e9dd237b6b3940b9a741.jar" />
+    </item>
+
+</items>

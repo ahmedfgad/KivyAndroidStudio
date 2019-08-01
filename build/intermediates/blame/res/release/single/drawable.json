@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/build/intermediates/res/merged/release/drawable/presplash.jpg",
+        "source": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/res/drawable/presplash.jpg"
+    },
+    {
+        "merged": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/res/drawable/icon.png"
+    }
+]

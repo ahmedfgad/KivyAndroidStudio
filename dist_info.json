@@ -1,0 +1,1 @@
+{"recipes": ["hostpython2", "sdl2_image", "sdl2_mixer", "sdl2_ttf", "python2", "sdl2", "setuptools", "six", "pyjnius", "requests", "kivy"], "dist_name": "myapp", "archs": ["armeabi-v7a"], "bootstrap": "sdl2_gradle"}

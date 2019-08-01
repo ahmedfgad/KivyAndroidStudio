@@ -1,0 +1,7 @@
+#Wed Jul 31 15:16:02 EET 2019
+base.0=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_67c003447b7c37bcfe13c0266fc97c0c55aebd63
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ebbacf059c518e8cbae25cf1f8b4886f8b2bfe7\\classes.dex
+base.1=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ebbacf059c518e8cbae25cf1f8b4886f8b2bfe7
+file.0=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_67c003447b7c37bcfe13c0266fc97c0c55aebd63\\classes.dex

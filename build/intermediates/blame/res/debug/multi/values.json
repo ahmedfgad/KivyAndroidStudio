@@ -1,0 +1,224 @@
+[
+    {
+        "outputFile": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 54,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 51,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 51,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 57,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 57,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 42,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 42,
+                        "endOffset": 258
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 57,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 57,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 42,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 54,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 51,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 51,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 57,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 57,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 510,
+                    "endColumn": 42,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 42,
+                        "endOffset": 258
+                    }
+                }
+            }
+        ]
+    }
+]

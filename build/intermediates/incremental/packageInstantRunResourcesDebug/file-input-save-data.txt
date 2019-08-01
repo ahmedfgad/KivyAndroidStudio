@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Jul 31 14:56:55 EET 2019
+2.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\project_chooser.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\presplash.jpg
+2.set=ANDROID_RESOURCE
+4.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\chooser_item.xml
+5.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+4.set=ANDROID_RESOURCE
+6.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\assets\\debug\\private.mp3
+9.set=ANDROID_RESOURCE
+9.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+1.set=ASSET
+7.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\assets\\debug
+9.base=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\project_empty.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

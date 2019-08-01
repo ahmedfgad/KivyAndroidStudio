@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:57
+-keep class org.kivy.android.PythonActivity { <init>(...); }
+

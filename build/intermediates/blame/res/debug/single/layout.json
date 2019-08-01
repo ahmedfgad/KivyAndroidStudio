@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\chooser_item.xml",
+        "source": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\layout\\chooser_item.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\project_chooser.xml",
+        "source": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\layout\\project_chooser.xml"
+    },
+    {
+        "merged": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\build\\intermediates\\res\\merged\\debug\\layout\\project_empty.xml",
+        "source": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\layout\\project_empty.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\project_chooser.xml",
+        "source": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\layout\\project_chooser.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\project_empty.xml",
+        "source": "D:\\My Articles\\Apress\\2019\\7\\KivyAndroidStudio\\src\\main\\res\\layout\\project_empty.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\project_empty.xml",
+        "source": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\layout\\project_empty.xml"
+    },
+    {
+        "merged": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\build\\intermediates\\res\\merged\\debug\\layout\\chooser_item.xml",
+        "source": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\layout\\chooser_item.xml"
+    },
+    {
+        "merged": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\build\\intermediates\\res\\merged\\debug\\layout\\project_chooser.xml",
+        "source": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\layout\\project_chooser.xml"
+    },
+    {
+        "merged": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\home\\ahmedgad\\Desktop\\tt\\.buildozer\\android\\platform\\build\\dists\\myapp\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\build\\intermediates\\res\\merged\\debug\\layout\\chooser_item.xml",
+        "source": "D:\\My Articles\\Kivy\\9\\KivyAndroidStudio\\src\\main\\res\\layout\\chooser_item.xml"
+    }
+]

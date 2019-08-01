@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/main/shaders"/></dataSet><dataSet config="release"><source path="/home/ahmedgad/Desktop/tt/.buildozer/android/platform/build/dists/myapp/src/release/shaders"/></dataSet></merger>
